@@ -1,2 +1,3 @@
-# CycleGAN_Yuz_Yaslandirma
+# CycleGAN Yüz Yaşlandırma
+
 CycleGAN ile Yüz Yaşlandırma
