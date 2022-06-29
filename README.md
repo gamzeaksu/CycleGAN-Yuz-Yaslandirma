@@ -1,6 +1,6 @@
 # CycleGAN Yüz Yaşlandırma
 
-Gazi Üniversitesi BM496 Bitirme Projesi için gerçekleştirilmiştir.
+Gazi Üniversitesi BM496 Bitirme Projesidir.
 
 ## Görüntüden Görüntüye Dönüşüm 
 
